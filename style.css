@@ -1,0 +1,159 @@
+html {
+  height: 100%;
+}
+body{
+	min-height: 100%;
+	font-family: "Gill Sans", sans-serif;
+	margin: 0px;
+	padding: 0px;
+	background-image:url(plancher1253-754.jpeg);
+}
+
+nav{
+	width: 100%;
+	background-color: #2E86C1;
+	position: sticky;
+}
+
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+nav li{
+	list-style-type: none;
+	float: left;
+}
+
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	padding: 20px 30px;
+	color: #FFF;
+}
+
+.menu{
+	display: table;
+	margin: 0 auto;
+}
+
+.menu-accueil:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+.menu-parcours:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+.menu-competences:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+.menu-experience:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+.menu-portfolio:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+.menu-contactez-moi:hover{
+	background-color:  RGBa(228, 77, 38, 0.15);
+}
+
+
+.description{
+	margin-left: 8%;
+	margin-top: 15%;
+}
+.description h1{
+	font-size: 50px;
+	color: #000000;
+	margin-bottom: 20px;
+}
+.essai {
+	color: #555;
+	line-height: 22px;
+	font-size: 20px;
+	text-align: center;
+}
+span{
+	color: #2E86C1
+;
+}
+.description p{
+	color: #555;
+	line-height: 22px;
+	font-size: 20px;
+}
+
+.formation{
+	margin-top: 5%;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+}
+
+.formation p{
+	color: #000000;
+	font-size: 19px;
+}
+
+.image{
+	text-align: center;
+}
+
+.container {
+	 margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.ecriture h2{
+	text-align: center;
+	font-style: oblique;
+}
+.ecriture p{
+	text-align: center;
+}
+
+.html {
+	width: 70%;
+	background-color: #04AA6D;
+	}
+.css {width: 60%;
+	background-color: #2196F3;
+	}
+.C {width: 50%;
+	background-color: #f44336;
+	}
+
+.container-langues{
+	margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.anglais{
+	width: 100%;
+	background-color: #0C4FDE;
+}
+.chinois {
+	width: 30%;
+	background-color: #f44336;
+	}
+.espagnol {
+	width: 65%;
+	background-color: #FAFA0F;
+	}
